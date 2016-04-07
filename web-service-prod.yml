@@ -1,3 +1,5 @@
 ---
+environment: prod
 account:
   uri: http://ACCOUNTS-SERVICE-PROD
+  number_length: 10

@@ -1,3 +1,5 @@
 ---
+environment: test
 account:
   uri: http://ACCOUNTS-SERVICE-TEST
+  number_length: 9
