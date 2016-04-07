@@ -1,5 +1,6 @@
 ---
-environment: dev
+deploy:
+  environment: dev
 account:
   uri: http://ACCOUNTS-SERVICE-DEV
   number_length: 9
