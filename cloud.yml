@@ -1,6 +1,0 @@
----
-deploy:
-  environment: cloud2
-account:
-  uri: http://ACCOUNTS-SERVICE
-  number_length: 9
